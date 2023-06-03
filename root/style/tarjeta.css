@@ -1,0 +1,43 @@
+
+.card {
+    background-color: #DEE5ED;
+    width: calc(90% / 4);
+    height: 400px;
+    padding: 2%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;   
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+.card>div {
+    display:flex;
+    justify-content: space-between;
+}
+
+.card>div>p {
+    font-size: 20;
+    font-weight: bold;
+    text-transform: initial;
+}
+
+.card>picture {
+    width: 100%;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.card>div>button{
+    width: 30%;
+    height: 100%;
+    border-radius: 4px;
+    background-color: #306BB3;
+    color: #FFFFFF;
+    border: none;
+}
