@@ -14,3 +14,20 @@ header {
     justify-content: space-between;
     color: white;
 }
+
+header>div {
+    display: flex; 
+    justify-content: space-around;
+    width: 30vw;
+    align-items:center;
+}
+
+header>button {
+    color: #306BB3;
+    height: 30%;
+    width: 10%;
+    display: flex;
+    justify-content:center;
+    border-radius: 5px;
+    border-color: #306BB3
+}
