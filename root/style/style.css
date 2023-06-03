@@ -14,7 +14,6 @@ header {
     justify-content: space-between;
     color: white;
 }
-<<<<<<< HEAD
 .footer {
     height: 383px;
     background: #306bb3;
@@ -51,7 +50,6 @@ header {
     justify-content: space-between;
     height: 65%;
   }
-=======
 
 header>div {
     display: flex;
@@ -70,4 +68,3 @@ header>button {
     border-color: #306BB3;
 }
 
->>>>>>> 83b5c3d5615caed224ca3bf06b68c82747f4bb0d
