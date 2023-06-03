@@ -1,8 +1,8 @@
 
 .card {
     background-color: #DEE5ED;
-    width: calc(90% / 4);
-    height: 400px;
+    width: 304px;
+    height: 388px;
     padding: 2%;
     border-radius: 10px;
     display: flex;
