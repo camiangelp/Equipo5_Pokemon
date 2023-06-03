@@ -14,6 +14,44 @@ header {
     justify-content: space-between;
     color: white;
 }
+<<<<<<< HEAD
+.footer {
+    height: 383px;
+    background: #306bb3;
+    border: 1px solid #306bb3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "Plus Jakarta Sans";
+    font-style: normal;
+  }
+  
+  .vision-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 20%;
+    height: 65%;
+  }
+  
+  .vision {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+    height: 70%;
+  }
+  
+  .sections-footer {
+    color: #ffffff;
+    mix-blend-mode: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 65%;
+  }
+=======
 
 header>div {
     display: flex;
@@ -32,3 +70,4 @@ header>button {
     border-color: #306BB3;
 }
 
+>>>>>>> 83b5c3d5615caed224ca3bf06b68c82747f4bb0d
